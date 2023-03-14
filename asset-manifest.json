@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ranutiwari.github.io/csb-2hluko/static/js/main.bee233ed.chunk.js",
+    "main.js.map": "https://ranutiwari.github.io/csb-2hluko/static/js/main.bee233ed.chunk.js.map",
+    "runtime-main.js": "https://ranutiwari.github.io/csb-2hluko/static/js/runtime-main.24449992.js",
+    "runtime-main.js.map": "https://ranutiwari.github.io/csb-2hluko/static/js/runtime-main.24449992.js.map",
+    "static/js/2.53275cb0.chunk.js": "https://ranutiwari.github.io/csb-2hluko/static/js/2.53275cb0.chunk.js",
+    "static/js/2.53275cb0.chunk.js.map": "https://ranutiwari.github.io/csb-2hluko/static/js/2.53275cb0.chunk.js.map",
+    "index.html": "https://ranutiwari.github.io/csb-2hluko/index.html",
+    "precache-manifest.f02082bc1bd67c4ebfb488e6d5ad1984.js": "https://ranutiwari.github.io/csb-2hluko/precache-manifest.f02082bc1bd67c4ebfb488e6d5ad1984.js",
+    "service-worker.js": "https://ranutiwari.github.io/csb-2hluko/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24449992.js",
+    "static/js/2.53275cb0.chunk.js",
+    "static/js/main.bee233ed.chunk.js"
+  ]
+}
